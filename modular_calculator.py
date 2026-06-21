@@ -19,7 +19,7 @@ def divide(a, b):
 #front end
 app = QApplication(sys.argv)
 window = QWidget()
-window.setWindowTitle("Modular Calculator")
+window.setWindowTitle("Modular Calculator UPdate")
 
 main_layout = QVBoxLayout()
 display = QLineEdit()
