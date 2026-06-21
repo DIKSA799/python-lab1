@@ -1,0 +1,1 @@
+import Pyqt6.QtWidgets as QtWidgets
